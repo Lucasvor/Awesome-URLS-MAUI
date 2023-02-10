@@ -61,3 +61,4 @@ A page with several links about custom control, tips, and post about .NET MAUI
         - [Customize controls with handlers with .NET MAUI](https://blog.jhonatanoliveira.dev/customize-controls-with-handlers-with-net-maui)
         - [Spice 🌶, a spicy cross-platform UI framework!](https://github.com/jonathanpeppers/spice)
         - [.NET Frontend Day 2023](https://www.youtube.com/watch?v=ToJLcBd4U-c)
+        - [Develop .NET MAUI Apps in VS Code with .NET Meteor - LINUX/MAC/WINDOWS](https://www.youtube.com/watch?v=ESKWC_7Kbms)
