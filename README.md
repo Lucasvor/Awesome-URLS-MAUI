@@ -62,3 +62,4 @@ A page with several links about custom control, tips, and post about .NET MAUI
         - [Spice 🌶, a spicy cross-platform UI framework!](https://github.com/jonathanpeppers/spice)
         - [.NET Frontend Day 2023](https://www.youtube.com/watch?v=ToJLcBd4U-c)
         - [Develop .NET MAUI Apps in VS Code with .NET Meteor - LINUX/MAC/WINDOWS](https://www.youtube.com/watch?v=ESKWC_7Kbms)
+        - [Adding Video in .NET MAUI Apps with the New MediaElement](https://www.infoq.com/news/2023/02/dot-net-maui-mediaelement/)
