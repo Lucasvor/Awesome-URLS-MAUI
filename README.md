@@ -64,3 +64,4 @@ A page with several links about custom control, tips, and post about .NET MAUI
         - [Develop .NET MAUI Apps in VS Code with .NET Meteor - LINUX/MAC/WINDOWS](https://www.youtube.com/watch?v=ESKWC_7Kbms)
         - [Adding Video in .NET MAUI Apps with the New MediaElement](https://www.infoq.com/news/2023/02/dot-net-maui-mediaelement/)
         - [Material.Components.Maui](https://github.com/MDC-MAUI/MDC-MAUI)
+        - [A Maui blog about MVVM and tips](https://ewerspej.hashnode.dev/)
