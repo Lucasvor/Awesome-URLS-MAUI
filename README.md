@@ -65,3 +65,4 @@ A page with several links about custom control, tips, and post about .NET MAUI
         - [Adding Video in .NET MAUI Apps with the New MediaElement](https://www.infoq.com/news/2023/02/dot-net-maui-mediaelement/)
         - [Material.Components.Maui](https://github.com/MDC-MAUI/MDC-MAUI)
         - [A Maui blog about MVVM and tips](https://ewerspej.hashnode.dev/)
+        - [Maui.BottomSheet is a .NET MAUI library used to display pages as Bottom Sheets.](https://github.com/the49code/The49.Maui.BottomSheet)
