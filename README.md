@@ -66,5 +66,5 @@ A page with several links about custom control, tips, and post about .NET MAUI
         - [Material.Components.Maui](https://github.com/MDC-MAUI/MDC-MAUI)
         - [A Maui blog about MVVM and tips](https://ewerspej.hashnode.dev/)
         - [Maui.BottomSheet is a .NET MAUI library used to display pages as Bottom Sheets.](https://github.com/the49code/The49.Maui.BottomSheet)
-        - [.NET MAUI Core Concepts - .NET MAUI Project Structure] (https://www.youtube.com/watch?v=BoA46D_tOpU)
-        - [.NET MAUI Core Concepts - Arrange elements using StackLayout] (https://www.youtube.com/watch?v=ZdIqGm6Th7M)
+        - [.NET MAUI Core Concepts - .NET MAUI Project Structure](https://www.youtube.com/watch?v=BoA46D_tOpU)
+        - [.NET MAUI Core Concepts - Arrange elements using StackLayout](https://www.youtube.com/watch?v=ZdIqGm6Th7M)
