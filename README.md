@@ -68,3 +68,4 @@ A page with several links about custom control, tips, and post about .NET MAUI
         - [Maui.BottomSheet is a .NET MAUI library used to display pages as Bottom Sheets.](https://github.com/the49code/The49.Maui.BottomSheet)
         - [.NET MAUI Core Concepts - .NET MAUI Project Structure](https://www.youtube.com/watch?v=BoA46D_tOpU)
         - [.NET MAUI Core Concepts - Arrange elements using StackLayout](https://www.youtube.com/watch?v=ZdIqGm6Th7M)
+        - [.NET MAUI clone of the Wonderous app - a visual showcase of eight wonders of the world made with Flutter by the team at gskinner.](https://github.com/RadekVyM/MarvelousMAUI)
