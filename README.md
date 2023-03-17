@@ -69,3 +69,5 @@ A page with several links about custom control, tips, and post about .NET MAUI
         - [.NET MAUI Core Concepts - .NET MAUI Project Structure](https://www.youtube.com/watch?v=BoA46D_tOpU)
         - [.NET MAUI Core Concepts - Arrange elements using StackLayout](https://www.youtube.com/watch?v=ZdIqGm6Th7M)
         - [.NET MAUI clone of the Wonderous app - a visual showcase of eight wonders of the world made with Flutter by the team at gskinner.](https://github.com/RadekVyM/MarvelousMAUI)
+    - .Net MAUI Mar
+        - [Movies App | .NET MAUI UI Challenge](https://www.youtube.com/watch?v=ySM9_azBVTI)
