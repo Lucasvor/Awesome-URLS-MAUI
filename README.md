@@ -71,3 +71,4 @@ A page with several links about custom control, tips, and post about .NET MAUI
         - [.NET MAUI clone of the Wonderous app - a visual showcase of eight wonders of the world made with Flutter by the team at gskinner.](https://github.com/RadekVyM/MarvelousMAUI)
     - .Net MAUI Mar
         - [Movies App | .NET MAUI UI Challenge](https://www.youtube.com/watch?v=ySM9_azBVTI)
+        - [Add a BottomSheet to Your .NET MAUI App with This Amazing Plugin!](https://www.youtube.com/watch?v=JJUm58avADo)
