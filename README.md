@@ -72,3 +72,9 @@ A page with several links about custom control, tips, and post about .NET MAUI
     - .Net MAUI Mar
         - [Movies App | .NET MAUI UI Challenge](https://www.youtube.com/watch?v=ySM9_azBVTI)
         - [Add a BottomSheet to Your .NET MAUI App with This Amazing Plugin!](https://www.youtube.com/watch?v=JJUm58avADo)
+    - .Net MAUI Apr
+        - [AvaloniaMauiHybrid.Controls - CALENDAR Avalonia with MAUI](https://github.com/jsuarezruiz/AvaloniaMauiHybrid.Controls)
+        - [Controls like TreeView and ListView](https://github.com/Keflon/FunctionZero.Maui.Controls)
+        - [MauiFeed - Cross-platform Feed Reader, supporting RSS, Atom, and JSON feeds](https://github.com/drasticactions/MauiFeed)
+        - [Maui.FreakyEffects is a collection of lightweight, visually stunning and unique effects for Maui, it contains a variety of effects that you can use to add some creativity to your Maui applications.](https://github.com/FreakyAli/Maui.FreakyEffects)
+        - []()
